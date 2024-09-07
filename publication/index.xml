@@ -1,72 +1,136 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Hugo Academic CV Theme</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Егор Видмаер</title>
+    <link>https://ervidmaer.github.io/publication/</link>
+      <atom:link href="https://ervidmaer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://ervidmaer.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://ervidmaer.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>ИТ в образовании новые возможности</title>
+      <link>https://ervidmaer.github.io/publication/it-in-edu/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ervidmaer.github.io/publication/it-in-edu/</guid>
+      <description>&lt;p&gt;ИТ трансформирует образование, предоставляя новые возможности для обучения и
+развития.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Онлайн-курсы и платформы MOOC (Massive Open Online Course): предоставляют доступ к качественному обучению из любого места в мире.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Виртуальная реальность и дополненная реальность: позволяют создавать более интерактивные запоминающиеся уроки.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Искусственный интеллект в образовании: помогает персонализировать обучение и адаптировать его к индивидуальным потребностям студентов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ИТ в образовании открывает новые горизонты и делает образование более доступным,
+интерактивным и эффективным.&lt;/p&gt;
+&lt;p&gt;Важно помнить: это лишь небольшая часть обширного мира ИТ и ИИ. Мир технологий
+постоянно развивается, и мы должны быть в курсе новейших трендов и возможностей,
+которые он предлагает.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>. Кибербезопасность борьба с невидимым врагом</title>
+      <link>https://ervidmaer.github.io/publication/cybersec/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ervidmaer.github.io/publication/cybersec/</guid>
+      <description>&lt;p&gt;В мире цифровых технологий кибербезопасность стала неотъемлемой частью нашей
+жизни. Хакеры и киберпреступники постоянно ищут новые способы взлома систем,
+кражи данных и дискредитации организаций.&lt;/p&gt;
+&lt;p&gt;Чтобы защитить себя от киберугроз, необходимо принять ряд мер:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Использовать сильные пароли и многофакторную аутентификацию.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Обновлять программное обеспечение и операционные системы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Использовать антивирусное программное обеспечение.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Осторожно относиться к фишинговым атакам и не переходить по подозрительным ссылкам.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Создать резервную копию важных данных.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кибербезопасность – это постоянная борьба, но с помощью проактивных мер и осведомленности мы можем защитить себя от киберпреступности.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Блокчейн больше чем криптовалюты</title>
+      <link>https://ervidmaer.github.io/publication/blockchain/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ervidmaer.github.io/publication/blockchain/</guid>
+      <description>&lt;p&gt;Блокчейн часто ассоциируется с криптовалютами, но эта технология имеет гораздо
+более широкий спектр применения.&lt;/p&gt;
+&lt;p&gt;Блокчейн – это распределенная база данных, которая обеспечивает безопасность,
+прозрачность и неизменность записи информации. Она используется в различных
+сферах, включая:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Финансовые услуги: для более быстрых и дешевых переводов денег.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Управление цепочками поставок: для отслеживания движения товаров и гарантии их происхождения.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Здравоохранение: для безопасного хранения медицинских данных и контроля доступа к ним.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Государственное управление: для прозрачного и эффективного ведения реестров и документов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Блокчейн обещает революцию во многих отраслях и потенциально изменит способ
+нашего взаимодействия с информацией и системами.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Глубокое обучение как оно работает</title>
+      <link>https://ervidmaer.github.io/publication/deeplearning/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ervidmaer.github.io/publication/deeplearning/</guid>
+      <description>&lt;p&gt;Глубокое обучение – один из самых популярных и быстро развивающихся разделов
+ИИ. Но как именно оно работает?&lt;/p&gt;
+&lt;p&gt;Представьте себе многослойную нейронную сеть, схожую с человеческим мозгом.
+Каждая слой обрабатывает данные и извлекает из них определенную информацию.
+Например, первый слой может распознавать края и формы на изображении, второй –
+комбинировать эти формы в более сложные структуры и так далее.&lt;/p&gt;
+&lt;p&gt;С помощью огромных наборов данных и мощных вычислительных систем сеть &amp;ldquo;учится&amp;rdquo;
+распознавать патерны, выявлять зависимости и делать предсказания.&lt;/p&gt;
+&lt;p&gt;Глубокое обучение позволяет создавать систему распознавания речи, перевода
+языков, медицинской диагностики, самоуправляемых автомобилей и многих других
+технологий, которые меняют нашу жизнь.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Искусственный интеллект не панацея, а инструмент</title>
+      <link>https://ervidmaer.github.io/publication/ai/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ervidmaer.github.io/publication/ai/</guid>
+      <description>&lt;p&gt;Искусственный интеллект (ИИ) уже не просто модное слово, а реальность, которая
+меняет нашу жизнь. От умных помощников до медицинской диагностики – ИИ
+проникает во все сферы. Но важно понимать, что ИИ – не панацея. Это инструмент,
+мощный и многообещающий, но требующий осторожного и взвешенного подхода.&lt;/p&gt;
+&lt;p&gt;Важно помнить, что ИИ – это &amp;ldquo;умный&amp;rdquo; алгоритм, обученный на данных. Качество
+данных и правильное создание модели определяют его эффективность. Недостаток
+данных, предвзятость в обучающей информации могут привести к неверным
+решениям, дискриминации и нежелательным последствиям.&lt;/p&gt;
+&lt;p&gt;ИИ не заменит человека. Он будет помогать нам решать задачи, но контроль и
+ответственность остаются за нами.&lt;/p&gt;
 </description>
     </item>
     
